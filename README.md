@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, meu nome é Alisson!👋
+## Seja bem-vindo ao meu perfil do **GitHub**!
 
-<!--
-**Alisson7-dev/Alisson7-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou estudando no **Grupo 8** da **Oracle One**, expandindo meus conhecimentos e habilidades em programação. Embora eu tenha mais experiência com **Python**, estou sempre aberto a aprender e me aventurar em novas tecnologias!
 
-Here are some ideas to get you started:
+### 🚀 **Sobre mim**
+- Apaixonado por **tecnologia**, sempre em busca de novos desafios.
+- Com foco em **Python**, mas interessado em aprender outras linguagens e frameworks.
+- Atualmente, aprimorando minhas habilidades em desenvolvimento e participação em projetos inovadores no **Oracle One**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 **Habilidades**
+- **Python**: Desenvolvimento de soluções eficientes e automatizadas.
+- **Tecnologias**: Familiaridade com ferramentas como Git, SQL, entre outras.
+- Sempre em busca de aprender novas **linguagens** e **tecnologias**.
+
+### 🌐 **Projetos**
+Confira alguns dos projetos que estou trabalhando e explorando aqui no meu GitHub:
+
+- **[Projeto amigo secreto ](https://amigo-secreto-xi-sable.vercel.app/)** - Sorteie seu amigo secreto com esse projeto usando as tecnologias **HTML**, **CSS** e **JAVASCRIPT**.
+- **[projeto numero secreto](https://alisson7-dev.github.io/numero-secreto/)** - Será que você consegue advinhar  o numero secreto?
+
+### 📬 **Conecte-se comigo**
+### 📬 **Conecte-se comigo**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-silva-dev) [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario_aqui)
+
+
+---
+
+### 💡 **Tecnologias que utilizo**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
+
+### 💡 **Tecnologias mais utilizadas nos meus projetos**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson7-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
