@@ -18,6 +18,7 @@ Confira alguns dos projetos que estou trabalhando e explorando aqui no meu GitHu
 
 - **[Projeto amigo secreto ](https://amigo-secreto-xi-sable.vercel.app/)** - Sorteie seu amigo secreto com esse projeto usando as tecnologias **HTML**, **CSS** e **JAVASCRIPT**.
 - **[projeto numero secreto](https://alisson7-dev.github.io/numero-secreto/)** - Será que você consegue advinhar  o numero secreto?
+- **[Página pessoal](https://alisson7-dev.github.io/portfolio/) - minha pagina pessoal, descubra mais sobre mim
 
 ### 📬 **Conecte-se comigo**
 ### 📬 **Conecte-se comigo**
