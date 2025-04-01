@@ -18,13 +18,11 @@ Confira alguns dos projetos que estou trabalhando e explorando aqui no meu GitHu
 
 - **[Projeto amigo secreto ](https://amigo-secreto-xi-sable.vercel.app/)** - Sorteie seu amigo secreto com esse projeto usando as tecnologias **HTML**, **CSS** e **JAVASCRIPT**.
 - **[projeto numero secreto](https://alisson7-dev.github.io/numero-secreto/)** - Será que você consegue advinhar  o numero secreto?
-- **[Página pessoal](https://alisson7-dev.github.io/portfolio/) - minha pagina pessoal, descubra mais sobre mim
+- **[Página pessoal](https://alisson7-dev.github.io/portfolio/)** - minha pagina pessoal, descubra mais sobre mim
 
-### 📬 **Conecte-se comigo**
 ### 📬 **Conecte-se comigo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-silva-dev) [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/A.lisson7)
-
 
 ---
 
@@ -32,9 +30,4 @@ Confira alguns dos projetos que estou trabalhando e explorando aqui no meu GitHu
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
 
-### 💡 **Tecnologias mais utilizadas nos meus projetos**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson7-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
