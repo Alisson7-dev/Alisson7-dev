@@ -18,7 +18,7 @@ Confira alguns dos projetos que estou trabalhando e explorando aqui no meu GitHu
 
 - **[Projeto amigo secreto ](https://amigo-secreto-xi-sable.vercel.app/)** - Sorteie seu amigo secreto com esse projeto usando as tecnologias **HTML**, **CSS** e **JAVASCRIPT**.
 - **[projeto money conversor](https://alisson7-dev.github.io/money-conversor/)** - um simples conversor de moeda, usando javaScript, html e css
-- **[Página pessoal](https://alisson7-dev.github.io/portfolio/)** - minha pagina pessoal, descubra mais sobre mim
+- **[Página pessoal](https://alisson7-dev.github.io/Alisson-dev/)** - minha pagina pessoal, descubra mais sobre mim
 
 ### 📬 **Conecte-se comigo**
 
